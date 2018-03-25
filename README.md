@@ -2,7 +2,7 @@
 
 This repository contains a group of study material of AlphaZero algorithm.
 
-Paper, PPT, code[https://github.com/edchengg/alphazero_learning/blob/master/Notebook/AlphaZero.ipynb].
+Paper, PPT, [code](https://github.com/edchengg/alphazero_learning/blob/master/Notebook/AlphaZero.ipynb).
 
 The notebook contains a simple 5 in a row game and AlphaZero implementation. In addition, the study notes are writen in the notebook as well.
 
