@@ -9,7 +9,7 @@ The notebook contains a simple 5 in a row game and AlphaZero implementation. In 
 
 ### Visualization of AlphaGo Zero algorithm
 
-https://github.com/edchengg/alphazero_learning/blob/master/Alphazero_PPT.pdf
+https://github.com/edchengg/alphazero_learning/blob/master/PPT/Alphazero_PPT.pdf
 
 ### Blog post
 
