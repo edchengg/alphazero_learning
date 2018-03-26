@@ -21,7 +21,7 @@ This repository contains a group of study material of AlphaZero algorithm.
 
 [PPT](https://github.com/edchengg/alphazero_learning/blob/master/PPT/Alphazero_PPT.pdf)
 
-<img src="ppt.png" style="width: 300px; height: 300px"/>
+<img src="ppt.png"/>
 
 
 ## Python Notebook:
