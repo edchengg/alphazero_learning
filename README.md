@@ -36,7 +36,7 @@ The notebook contains a series of note and code in each part of the Alpha Zero a
 5. Game class
 6. Training class
 
-<img src="nhttps://github.com/edchengg/alphazero_learning/blob/master/img/note2.png" width="500"/>
+<img src="https://github.com/edchengg/alphazero_learning/blob/master/img/note2.png" width="500"/>
 
 
 
