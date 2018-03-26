@@ -5,13 +5,11 @@ This repository contains a group of study material of AlphaZero algorithm.
 
 ## Paper
 
-Mastering the game of Go with deep neural networks and tree search,
+[Mastering the game of Go with deep neural networks and tree search][https://github.com/edchengg/alphazero_learning/blob/master/Paper/Mastering%20the%20game%20of%20Go%20with%20deep%20neural%20networks%20and%20tree%20search.pdf],
 
-Matering the game of Go without human knowledge,
+[Matering the game of Go without human knowledge][https://github.com/edchengg/alphazero_learning/blob/master/Paper/Matering%20the%20game%20of%20Go%20without%20human%20knowledge.pdf],
 
-PseudoCode of AlphaGo Zero:
-
-[Paper](https://github.com/edchengg/alphazero_learning/tree/master/Paper)
+[PseudoCode of AlphaGo Zero][https://github.com/edchengg/alphazero_learning/tree/master/Paper]
 
 ## PPT slides
 
