@@ -1,6 +1,9 @@
 # AlphaGO Zero
 
+
 This repository contains a group of study material of AlphaZero algorithm.
+
+## Paper
 
 Mastering the game of Go with deep neural networks and tree search,
 
@@ -10,11 +13,17 @@ PseudoCode of AlphaGo Zero:
 
 [Paper](https://github.com/edchengg/alphazero_learning/tree/master/Paper)
 
-PPT slides from Harvey Huang:
+## PPT slides
+
+### PPT slides from Harvey Huang:
+
+[PPT](https://github.com/edchengg/alphazero_learning/blob/master/PPT/alphaGo_v2.pdf)
+
+### Visualization of AlphaGo Zero algorithm
 
 [PPT](https://github.com/edchengg/alphazero_learning/blob/master/PPT/Alphazero_PPT.pdf)
 
-Python Notebook:
+## Python Notebook:
 
 The notebook contains a series of note and code in each part of the Alpha Zero algorithm:
 
@@ -23,15 +32,12 @@ The notebook contains a series of note and code in each part of the Alpha Zero a
 3. Reinforcement Learning
 4. Game(5 in a row)
 
-[code](https://github.com/edchengg/alphazero_learning/blob/master/Notebook/AlphaZero.ipynb).
+[Notebook](https://github.com/edchengg/alphazero_learning/blob/master/Notebook/AlphaZero.ipynb).
 
 
+## Blog post
 
-### Visualization of AlphaGo Zero algorithm
-
-https://github.com/edchengg/alphazero_learning/blob/master/PPT/Alphazero_PPT.pdf
-
-### Blog post
+The following blog posts are quite useful during the study of the algorithm.
 
 pesudo code: https://www.jiqizhixin.com/articles/2017-11-02-18 
 
