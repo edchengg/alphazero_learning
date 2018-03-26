@@ -19,16 +19,23 @@ This repository contains a group of study material of AlphaZero algorithm.
 
 ### Visualization of AlphaGo Zero algorithm
 
+<img src="ppt.png" style="width: 50%; height: 50%"/>
+
 [PPT](https://github.com/edchengg/alphazero_learning/blob/master/PPT/Alphazero_PPT.pdf)
 
 ## Python Notebook:
 
 The notebook contains a series of note and code in each part of the Alpha Zero algorithm:
 
-1. Policy Network
-2. Monte Carlo Tree Search
-3. Reinforcement Learning
-4. Game(5 in a row)
+1. PesudoCode of AlphaZero
+2. Tree Node class
+3. Monte Carlo Tree Search class
+4. MCTS Player class
+5. Game class
+6. Training class
+
+<img src="note1.png" style="width: 50%; height: 50%"/>
+<img src="note2.png" style="width: 50%; height: 50%"/>
 
 [Notebook](https://github.com/edchengg/alphazero_learning/blob/master/Notebook/AlphaZero.ipynb).
 
