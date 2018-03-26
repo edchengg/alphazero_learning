@@ -20,8 +20,7 @@ This repository contains a group of study material of AlphaZero algorithm.
 ### Visualization of AlphaGo Zero algorithm
 
 [PPT](https://github.com/edchengg/alphazero_learning/blob/master/PPT/Alphazero_PPT.pdf)
-
-<img src="ppt.png"/>
+![](https://github.com/edchengg/alphazero_learning/blob/master/ppt.png =250x250)
 
 
 ## Python Notebook:
